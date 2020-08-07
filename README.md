@@ -18,4 +18,4 @@ The project was carried out according to the following steps:
 - Task 9: Plotting the Decision Boundary,
 - Task 10: Predictions Using the Optimized 𝜃 Values.
 
-<img src="https://user-images.githubusercontent.com/65929471/89359899-48ee2e80-d69d-11ea-86d4-b6259474745a.png" align="center">
+![Captura de tela de 2020-08-04 21-55-22](https://user-images.githubusercontent.com/65929471/89359899-48ee2e80-d69d-11ea-86d4-b6259474745a.png)
